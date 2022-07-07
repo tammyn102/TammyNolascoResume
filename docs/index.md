@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Tammy Nolasco's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tammy Nolasco
+Computer Science student at Brigham Young University -Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
