@@ -24,59 +24,35 @@ Computer Science
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2021 - December 2021`
+__Brigham Young University -Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+-	Created a front-end using JavaScript, HTML, and CSS allowing users to create a Virtual Machine for educational purposes for use in more than one class on campus
+- Transferred data using API and endpoints from the front-end and backend 
+- Working on the backend using C# to connect and secure important information
 
-### Data Science Lead
+### Projects 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`October 2021– July 2022`
+__Scheduling Project__, Front-end Developer
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Created a scheduling tool for the CIT department allowing secretaries to create the schedule for the coming semester faster and more efficient
+- Using C# to create the backend and JavaScript to create the frontend of the website
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2021 - April 2021`
+__GPS Project__, Developer
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Built a platform to estimate GPS location of a target device and display that location on an iPhone using google maps in real time. Software written in C and Swift
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2017-2019`
+__Spanish Tutor__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
